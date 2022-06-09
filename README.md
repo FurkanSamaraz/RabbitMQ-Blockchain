@@ -1,3 +1,8 @@
 # RabbitMQ-Blockchain
 
+istemciden verimizi rabbitmq' e yolluyoruz ve yollanan veriyi hazırdan dinleyen serverden okuyoruz okunan veriyi block'lama işlemine sokarak blockchain algoritmalı şifrelemeye sokuyoruz.
+
 ![RabbitMQ](https://user-images.githubusercontent.com/92402372/172896360-d9a0272f-d161-49ee-9f9b-40508d82c6aa.png)
+
+
+<img width="571" alt="Ekran Resmi 2022-06-09 19 27 51" src="https://user-images.githubusercontent.com/92402372/172897511-d6191976-1aae-465e-aadf-e59e6ba9f04e.png">
